@@ -1,0 +1,28 @@
+int a;
+int cmp(int a, int b)
+{
+	int c;
+	c = a;
+    if(a > b)
+    {
+        c = a - b;
+    }
+    else
+    {
+        c = b - a;
+    }
+    
+	return c;
+}
+
+void function(int a){
+    int i;
+    int sum;
+    i = 0;
+    sum = 0;
+    while(i<100)
+    {
+        sum = sum + i;
+        i = i+1;
+    }
+    }

@@ -1,0 +1,2 @@
+int bar;
+float foo(void) { return 1.0; }

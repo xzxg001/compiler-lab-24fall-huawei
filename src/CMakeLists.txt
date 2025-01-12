@@ -1,0 +1,8 @@
+add_subdirectory(lexer)
+add_subdirectory(parser)
+add_subdirectory(io)
+add_subdirectory(common)
+add_subdirectory(lightir)
+add_subdirectory(cminusfc)
+add_subdirectory(optimization)
+add_subdirectory(bisheng)

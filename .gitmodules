@@ -1,0 +1,3 @@
+[submodule "src/bisheng/coremark"]
+	path = src/bisheng/coremark
+	url = https://github.com/eembc/coremark
